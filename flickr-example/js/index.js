@@ -1,4 +1,4 @@
-const API_KEY = 'Här ska din API-nyckel ligga';
+const API_KEY = '19d3e6e0acfe9c438f368e2c2bab1c5d';
 const BASE_URL = 'https://api.flickr.com/services/rest';
 const imageElem = document.querySelector('img');
 
